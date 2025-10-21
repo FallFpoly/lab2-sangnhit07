@@ -11,6 +11,6 @@ package com.mycompany.lab2;
 public class gvthem {
 
     public static void main(String[] args) {
-        System.out.println("hoang sang!");
+        System.out.println("hoang sang demo!");
     }
 }
